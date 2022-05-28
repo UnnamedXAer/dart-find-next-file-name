@@ -7,7 +7,7 @@ Add it as dependences in your `pubspec.yaml` and execute `$` `dart pub get`
 ```yaml
 dependencies: 
   ...
-  next_file_name:
+  find_next_file_name:
     git:
       url: https://github.com/UnnamedXAer/dart-find-next-file-name.git
       ref: master

@@ -1,4 +1,4 @@
-import 'package:find_next_file_name/find_next_file_name.dart';
+import 'package:find_next_file_name/src/find_next_file_name_base.dart';
 import 'package:test/test.dart';
 
 void main() {

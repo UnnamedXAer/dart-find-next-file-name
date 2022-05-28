@@ -1,0 +1,13 @@
+name: find_next_file_name
+description: Add a number in parentheses to the file name if in specified location a file with given name already exists.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  path: ^1.8.0
+
+dev_dependencies:
+  lints: ^2.0.0
+  test: ^1.16.0
